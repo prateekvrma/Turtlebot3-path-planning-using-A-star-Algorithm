@@ -1,4 +1,4 @@
-# Turtlebot3-path-planning-in-A-star-
+# Turtlebot3-path-planning-using-A-star-Algorithm
 Navigate  a  differential  drive  robot  (TurtleBot  3)  in  a  given  map  environment from a given start point to a given goal point using  A*  algorithm, with 8 set of action space .
 
 # This is for ENPM661 Project3 (Phase 2)
