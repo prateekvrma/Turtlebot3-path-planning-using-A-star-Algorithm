@@ -3,6 +3,10 @@ Navigate  a  differential  drive  robot  (TurtleBot  3)  in  a  given  map  envi
 
 # This is for ENPM661 Project3 (Phase 2)
 
+PartA : Implementation on point robot.
+
+PartB : Implementation on Turtlebot3 in Gazebo(ROS).
+
 # Contributors:
-## Prateek Verma
-## Pratik Patel
+Prateek Verma
+Pratik Patel
