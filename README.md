@@ -8,5 +8,7 @@ PartA : Implementation on point robot.
 PartB : Implementation on Turtlebot3 in Gazebo(ROS).
 
 # Contributors:
+
 Prateek Verma
+
 Pratik Patel
